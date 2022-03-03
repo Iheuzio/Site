@@ -1,2 +1,2 @@
 # Site
-Testing this thing idk
+Will be used for adding future commits from the main page of github to later on...
